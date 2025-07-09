@@ -1,0 +1,1023 @@
+{
+  "games": [
+    {
+      "id": "1",
+      "title": "PatLabor: EZY",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt repellendus ipsam eius, voluptates inventore nobis nesciunt delectus doloremque repudiandae porro quaerat sint explicabo! Pariatur ipsa minima iure asperiores perspiciatis quisquam.",
+      "img": {
+        "path": "/images/b7724eed5c29b2dc51e7589c921ridc5.JPG",
+        "imgType": "image/jpeg",
+        "imgBase64": ""
+      },
+      "releaseDate": "2023-04-21",
+      "platforms": {
+        "PS4": true,
+        "XONE": true,
+        "PC": true,
+        "PS5": true,
+        "XBSX": true
+      }
+    },
+    {
+      "id": "2",
+      "title": "The Drifter",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt repellendus ipsam eius, voluptates inventore nobis nesciunt delectus doloremque repudiandae porro quaerat sint explicabo! Pariatur ipsa minima iure asperiores perspiciatis quisquam.",
+      "img": {
+        "path": "/images/297084498_10166532347590228_3278880362385791848_n.jpg",
+        "imgType": "image/jpeg",
+        "imgBase64": ""
+      },
+      "releaseDate": "2024-06-30",
+      "platforms": {
+        "PS4": true,
+        "XONE": true,
+        "PC": true,
+        "PS5": true,
+        "XBSX": true
+      }
+    },
+    {
+      "id": "3",
+      "title": "Spheniscus Agents",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt repellendus ipsam eius, voluptates inventore nobis nesciunt delectus doloremque repudiandae porro quaerat sint explicabo! Pariatur ipsa minima iure asperiores perspiciatis quisquam.",
+      "img": {
+        "path": "/images/FKkYyKZagAADftO.jpg",
+        "imgType": "image/jpeg",
+        "imgBase64": ""
+      },
+      "releaseDate": "2024-08-12",
+      "platforms": {
+        "PS4": true,
+        "XONE": true,
+        "PC": true,
+        "PS5": true,
+        "XBSX": true
+      },
+      "score": "7"
+    },
+    {
+      "id": "4",
+      "title": "Foodee Adventure",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt repellendus ipsam eius, voluptates inventore nobis nesciunt delectus doloremque repudiandae porro quaerat sint explicabo! Pariatur ipsa minima iure asperiores perspiciatis quisquam.",
+      "img": {
+        "path": "/images/GeqtkcDbsAA4p9k.jpg",
+        "imgType": "image/jpeg",
+        "imgBase64": ""
+      },
+      "releaseDate": "2022-05-18",
+      "platforms": {
+        "PS4": false,
+        "XONE": false,
+        "PC": true,
+        "PS5": false,
+        "XBSX": false
+      },
+      "score": "6"
+    },
+    {
+      "id": "5",
+      "title": "Dreaming to be free",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt repellendus ipsam eius, voluptates inventore nobis nesciunt delectus doloremque repudiandae porro quaerat sint explicabo! Pariatur ipsa minima iure asperiores perspiciatis quisquam.",
+      "img": {
+        "path": "/images/GRnz3qhbMAIq2aK.jfif",
+        "imgType": "image/jpeg",
+        "imgBase64": ""
+      },
+      "releaseDate": "2023-07-20",
+      "platforms": {
+        "PS4": true,
+        "XONE": false,
+        "PC": false,
+        "PS5": false,
+        "XBSX": false
+      },
+      "score": "6"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "author": "AtomicBanana",
+      "releaseDate": "2023-07-20T21:12:00",
+      "score": "7",
+      "contents": [
+        {
+          "key": "44f2f980-1ff7-4295-9d5d-5c575ec0edae",
+          "tag": "p",
+          "p": "Lorem ipsum dolor sit amet consectetur\nadipisicing elit.\nIllo error tenetur natus suscipit officia, ipsa aut dolorem saepe commodi perferendis in aliquid molestias quae.\nLorem ipsum dolor sit amet consectetur \nadipisicing elit. \nIllo error tenetur natus suscipit officia, ipsa aut dolorem saepe commodi perferendis in aliquid molestias quae."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "author": "AtomicBanana",
+      "releaseDate": "2023-07-20T21:12:00",
+      "score": "8",
+      "contents": [
+        {
+          "key": "44f2f980-1ff7-4295-9d5d-5c575ec0edae",
+          "tag": "p",
+          "p": "Lorem ipsum dolor sit amet consectetur\nadipisicing elit.\nIllo error tenetur natus suscipit officia, ipsa aut dolorem saepe commodi perferendis in aliquid molestias quae.\nLorem ipsum dolor sit amet consectetur \nadipisicing elit. \nIllo error tenetur natus suscipit officia, ipsa aut dolorem saepe commodi perferendis in aliquid molestias quae."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "author": "AtomicBanana",
+      "releaseDate": "2023-07-20T21:12:00",
+      "score": "7",
+      "contents": [
+        {
+          "key": "44f2f980-1ff7-4295-9d5d-5c575ec0edae",
+          "tag": "p",
+          "p": "Lorem ipsum dolor sit amet consectetur\nadipisicing elit.\nIllo error tenetur natus suscipit officia, ipsa aut dolorem saepe commodi perferendis in aliquid molestias quae.\nLorem ipsum dolor sit amet consectetur \nadipisicing elit. \nIllo error tenetur natus suscipit officia, ipsa aut dolorem saepe commodi perferendis in aliquid molestias quae."
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "author": "regregre",
+      "releaseDate": "2025-06-16T17:34:00",
+      "score": "6",
+      "contents": [
+        {
+          "key": "e51b235d-cffb-407c-846a-0c61c52be8a2",
+          "tag": "p",
+          "p": "this a demo review 444444444444444444444444 content  44444444444\n44444444444"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "author": "ergregre",
+      "releaseDate": "2025-06-16T19:00:00",
+      "score": "6",
+      "contents": [
+        {
+          "key": "732b6f2e-41ba-48bb-8066-7e86443b4a24",
+          "tag": "p",
+          "p": "this a demo content"
+        },
+        {
+          "key": "e6f7e883-1137-49ba-966e-08ca7ff1c4ba",
+          "tag": "p",
+          "p": "this a demo content2"
+        }
+      ]
+    }
+  ],
+  "newses": [
+    {
+      "id": "1",
+      "title": "Resident Evil 9, Requiem, Announced At Summer Game Fest With Trailer And Release Date",
+      "img": {
+        "path": "/images/news/422a538cbb40d21e4344d749e45d911f.JPG",
+        "imgType": "image/jpeg",
+        "imgBase64": ""
+      },
+      "updateDateTime": "2025-06-09T21:12:00",
+      "subTitle": "After teasing fans earlier in the show, Capcom dropped a bombshell with a trailer announcing Resident Evil Requiem.",
+      "author": "Phil Hornshaw",
+      "contents": [
+        {
+          "key": "ewfewf",
+          "tag": "p",
+          "p": "Capcom pulled a fast one on Resident Evil fans during Summer Game Fest 2025, first teasing upcoming information about a new Resident Evil title sometime in the future, and then ending the show with a trailer for the next mainline title in the survival-horror franchise, Resident Evil Requiem. Capcom also revealed the release date for the game: February 27, 2026. Check out the trailer below."
+        },
+        {
+          "key": "ewfewfergregre",
+          "tag": "p",
+          "p": "After the trailer reveal, Summer Game Fest host Geoff Keighley said the game \"marks a bold shift for the franchise, both in tone and gameplay, and today's reveal isn't just about survival horror. Expect high-stakes cinematic action, too.\""
+        },
+        {
+          "key": "ewfewfregjttyuj",
+          "tag": "p",
+          "p": "The trailer gave some hints about where the game will take players, hinting at a return to Raccoon City from Resident Evils 1-3--only in its destroyed form, as the US government used a nuclear bomb on Raccoon City to contain the monster-making T-virus outbreak in the early franchise."
+        },
+        {
+          "key": "ewjtukiuoiuiofewf",
+          "tag": "p",
+          "p": "It also stars a character named Grace Ashcroft, an FBI analyst who seems to be the daughter of Alyssa Aschroft, a character who appeared in Resident Evil Outbreak. If you don't remember that game, that's because it was a short-lived, early online multiplayer title set during the events of Resident Evil 2 and 3. It concerned a group of survivors fighting to survive the zombie outbreak and escape the city."
+        },
+        {
+          "key": "rthrjtykjyu",
+          "tag": "p",
+          "p": "According to its official website, Resident Evil Requiem brings \"a new era of survival horror begins in 2026. Technological advancements combined with the development team's depth of experience combine in a story with rich characters and gameplay that's more immersive than ever before.\""
+        },
+        {
+          "key": "etyu78978sdvgsdewfewf",
+          "tag": "img",
+          "img": {
+            "path": "/images/news/422a538cbb40d21e4344d749e45d911f.JPG",
+            "imgType": "image/jpeg",
+            "imgBase64": ""
+          }
+        },
+        {
+          "key": "reg756756",
+          "tag": "p",
+          "p": "Requiem is headed to PlayStation 5, Xbox Series X|S, and PC."
+        },
+        {
+          "key": "ewhrth789798702gverffewf",
+          "tag": "p",
+          "p": "Earlier in the show, Capcom acknowledged the \"latest Resident Evil game,\" as well as the 30th anniversary of Resident Evil, but asked fans to wait just a little longer for info on the game. In a short video segment, Resident Evil executive producer Jun Takeuchi thanked fans for their continued support."
+        },
+        {
+          "key": "ewfrehrth789789789gfhgfewf",
+          "tag": "p",
+          "p": "\"Now, about the latest Resident Evil game you've all been waiting for ... bear with us a little longer, just a blink of an eye more, and it'll be ready.\""
+        },
+        {
+          "key": "ergrhjtjyu9789080q2r42sddfs",
+          "tag": "p",
+          "p": "The video also included a bunch of iconic images from across the franchise, such as the \"Welcome to Raccoon City\" sign, a Raccoon City Police Department typewriter, a map of the city, and a shot of Lady Dimitrescu, the breakout villain from Resident Evil Village. The video also featured Maggie Robertson, who voices Dimitrescu, singing a spooky take on \"Happy Birthday.\""
+        },
+        {
+          "key": "regrgh769098xcvxert",
+          "tag": "p",
+          "p": "Capcom had previously announced during its 2024 showcase that the next Resident Evil was in development--and possibly teased in a Resident Evil 4 sales milestone post back in April--with game director Koshi Nakanishi leading the charge. Nakanishi has worked on several Resident Evil titles over the years, and he was the director of Resident Evil 7, the game many consider to be a pivotal turning point for the series."
+        },
+        {
+          "key": "ewfew655467578",
+          "tag": "p",
+          "p": "\"We're making a new Resident Evil. It was really difficult to figure out what to do after [Resident Evil] 7,\" Nakanishi said last year. \"But I found it, and to be honest, it feels substantial.\""
+        },
+        {
+          "key": "bgfnfghg67867867",
+          "tag": "p",
+          "p": "More Resident Evil remakes are also on the way, and another stab at adapting the franchise for the big screen is in an early stage of development. The new Resident Evil film will be helmed by Barbarian director Zach Cregger and is currently scheduled to be released on September 18, 2026."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Game News Title: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non neque alias enim tempore!",
+      "img": {
+        "path": "/images/news/2022-08-22 19_46_14-《Lycoris Recoil 莉可麗絲》第8話甜點「熱巧克力百匯」引話題 網友 _ 是歐搜瑪！ _ 日刊電電.png",
+        "imgType": "image/jpeg",
+        "imgBase64": ""
+      },
+      "updateDateTime": "2025-06-09T21:12:00",
+      "subTitle": "After teasing fans earlier in the show, Capcom dropped a bombshell with a trailer announcing Resident Evil Requiem.",
+      "author": "Phil Hornshaw",
+      "contents": [
+        {
+          "key": "ewfewf",
+          "tag": "p",
+          "p": "Capcom pulled a fast one on Resident Evil fans during Summer Game Fest 2025, first teasing upcoming information about a new Resident Evil title sometime in the future, and then ending the show with a trailer for the next mainline title in the survival-horror franchise, Resident Evil Requiem. Capcom also revealed the release date for the game: February 27, 2026. Check out the trailer below."
+        },
+        {
+          "key": "ewfewfergregre",
+          "tag": "p",
+          "p": "After the trailer reveal, Summer Game Fest host Geoff Keighley said the game \"marks a bold shift for the franchise, both in tone and gameplay, and today's reveal isn't just about survival horror. Expect high-stakes cinematic action, too.\""
+        },
+        {
+          "key": "ewfewfregjttyuj",
+          "tag": "p",
+          "p": "The trailer gave some hints about where the game will take players, hinting at a return to Raccoon City from Resident Evils 1-3--only in its destroyed form, as the US government used a nuclear bomb on Raccoon City to contain the monster-making T-virus outbreak in the early franchise."
+        },
+        {
+          "key": "ewjtukiuoiuiofewf",
+          "tag": "p",
+          "p": "It also stars a character named Grace Ashcroft, an FBI analyst who seems to be the daughter of Alyssa Aschroft, a character who appeared in Resident Evil Outbreak. If you don't remember that game, that's because it was a short-lived, early online multiplayer title set during the events of Resident Evil 2 and 3. It concerned a group of survivors fighting to survive the zombie outbreak and escape the city."
+        },
+        {
+          "key": "rthrjtykjyu",
+          "tag": "p",
+          "p": "According to its official website, Resident Evil Requiem brings \"a new era of survival horror begins in 2026. Technological advancements combined with the development team's depth of experience combine in a story with rich characters and gameplay that's more immersive than ever before.\""
+        },
+        {
+          "key": "etyu78978sdvgsdewfewf",
+          "tag": "img",
+          "img": {
+            "path": "/images/news/2022-08-22 19_46_14-《Lycoris Recoil 莉可麗絲》第8話甜點「熱巧克力百匯」引話題 網友 _ 是歐搜瑪！ _ 日刊電電.png",
+            "imgType": "image/jpeg",
+            "imgBase64": ""
+          }
+        },
+        {
+          "key": "reg756756",
+          "tag": "p",
+          "p": "Requiem is headed to PlayStation 5, Xbox Series X|S, and PC."
+        },
+        {
+          "key": "ewhrth789798702gverffewf",
+          "tag": "p",
+          "p": "Earlier in the show, Capcom acknowledged the \"latest Resident Evil game,\" as well as the 30th anniversary of Resident Evil, but asked fans to wait just a little longer for info on the game. In a short video segment, Resident Evil executive producer Jun Takeuchi thanked fans for their continued support."
+        },
+        {
+          "key": "ewfrehrth789789789gfhgfewf",
+          "tag": "p",
+          "p": "\"Now, about the latest Resident Evil game you've all been waiting for ... bear with us a little longer, just a blink of an eye more, and it'll be ready.\""
+        },
+        {
+          "key": "ergrhjtjyu9789080q2r42sddfs",
+          "tag": "p",
+          "p": "The video also included a bunch of iconic images from across the franchise, such as the \"Welcome to Raccoon City\" sign, a Raccoon City Police Department typewriter, a map of the city, and a shot of Lady Dimitrescu, the breakout villain from Resident Evil Village. The video also featured Maggie Robertson, who voices Dimitrescu, singing a spooky take on \"Happy Birthday.\""
+        },
+        {
+          "key": "regrgh769098xcvxert",
+          "tag": "p",
+          "p": "Capcom had previously announced during its 2024 showcase that the next Resident Evil was in development--and possibly teased in a Resident Evil 4 sales milestone post back in April--with game director Koshi Nakanishi leading the charge. Nakanishi has worked on several Resident Evil titles over the years, and he was the director of Resident Evil 7, the game many consider to be a pivotal turning point for the series."
+        },
+        {
+          "key": "ewfew655467578",
+          "tag": "p",
+          "p": "\"We're making a new Resident Evil. It was really difficult to figure out what to do after [Resident Evil] 7,\" Nakanishi said last year. \"But I found it, and to be honest, it feels substantial.\""
+        },
+        {
+          "key": "bgfnfghg67867867",
+          "tag": "p",
+          "p": "More Resident Evil remakes are also on the way, and another stab at adapting the franchise for the big screen is in an early stage of development. The new Resident Evil film will be helmed by Barbarian director Zach Cregger and is currently scheduled to be released on September 18, 2026."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Game News Title: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non neque alias enim tempore!",
+      "img": {
+        "path": "/images/news/312147233_5700337286654327_553248126242412595_n.jpg",
+        "imgType": "image/jpeg",
+        "imgBase64": ""
+      },
+      "updateDateTime": "2025-06-09T21:12:00",
+      "subTitle": "After teasing fans earlier in the show, Capcom dropped a bombshell with a trailer announcing Resident Evil Requiem.",
+      "author": "Phil Hornshaw",
+      "contents": [
+        {
+          "key": "ewfewf",
+          "tag": "p",
+          "p": "Capcom pulled a fast one on Resident Evil fans during Summer Game Fest 2025, first teasing upcoming information about a new Resident Evil title sometime in the future, and then ending the show with a trailer for the next mainline title in the survival-horror franchise, Resident Evil Requiem. Capcom also revealed the release date for the game: February 27, 2026. Check out the trailer below."
+        },
+        {
+          "key": "ewfewfergregre",
+          "tag": "p",
+          "p": "After the trailer reveal, Summer Game Fest host Geoff Keighley said the game \"marks a bold shift for the franchise, both in tone and gameplay, and today's reveal isn't just about survival horror. Expect high-stakes cinematic action, too.\""
+        },
+        {
+          "key": "ewfewfregjttyuj",
+          "tag": "p",
+          "p": "The trailer gave some hints about where the game will take players, hinting at a return to Raccoon City from Resident Evils 1-3--only in its destroyed form, as the US government used a nuclear bomb on Raccoon City to contain the monster-making T-virus outbreak in the early franchise."
+        },
+        {
+          "key": "ewjtukiuoiuiofewf",
+          "tag": "p",
+          "p": "It also stars a character named Grace Ashcroft, an FBI analyst who seems to be the daughter of Alyssa Aschroft, a character who appeared in Resident Evil Outbreak. If you don't remember that game, that's because it was a short-lived, early online multiplayer title set during the events of Resident Evil 2 and 3. It concerned a group of survivors fighting to survive the zombie outbreak and escape the city."
+        },
+        {
+          "key": "rthrjtykjyu",
+          "tag": "p",
+          "p": "According to its official website, Resident Evil Requiem brings \"a new era of survival horror begins in 2026. Technological advancements combined with the development team's depth of experience combine in a story with rich characters and gameplay that's more immersive than ever before.\""
+        },
+        {
+          "key": "etyu78978sdvgsdewfewf",
+          "tag": "img",
+          "img": {
+            "path": "/images/news/312147233_5700337286654327_553248126242412595_n.jpg",
+            "imgType": "image/jpeg",
+            "imgBase64": ""
+          }
+        },
+        {
+          "key": "reg756756",
+          "tag": "p",
+          "p": "Requiem is headed to PlayStation 5, Xbox Series X|S, and PC."
+        },
+        {
+          "key": "ewhrth789798702gverffewf",
+          "tag": "p",
+          "p": "Earlier in the show, Capcom acknowledged the \"latest Resident Evil game,\" as well as the 30th anniversary of Resident Evil, but asked fans to wait just a little longer for info on the game. In a short video segment, Resident Evil executive producer Jun Takeuchi thanked fans for their continued support."
+        },
+        {
+          "key": "ewfrehrth789789789gfhgfewf",
+          "tag": "p",
+          "p": "\"Now, about the latest Resident Evil game you've all been waiting for ... bear with us a little longer, just a blink of an eye more, and it'll be ready.\""
+        },
+        {
+          "key": "ergrhjtjyu9789080q2r42sddfs",
+          "tag": "p",
+          "p": "The video also included a bunch of iconic images from across the franchise, such as the \"Welcome to Raccoon City\" sign, a Raccoon City Police Department typewriter, a map of the city, and a shot of Lady Dimitrescu, the breakout villain from Resident Evil Village. The video also featured Maggie Robertson, who voices Dimitrescu, singing a spooky take on \"Happy Birthday.\""
+        },
+        {
+          "key": "regrgh769098xcvxert",
+          "tag": "p",
+          "p": "Capcom had previously announced during its 2024 showcase that the next Resident Evil was in development--and possibly teased in a Resident Evil 4 sales milestone post back in April--with game director Koshi Nakanishi leading the charge. Nakanishi has worked on several Resident Evil titles over the years, and he was the director of Resident Evil 7, the game many consider to be a pivotal turning point for the series."
+        },
+        {
+          "key": "ewfew655467578",
+          "tag": "p",
+          "p": "\"We're making a new Resident Evil. It was really difficult to figure out what to do after [Resident Evil] 7,\" Nakanishi said last year. \"But I found it, and to be honest, it feels substantial.\""
+        },
+        {
+          "key": "bgfnfghg67867867",
+          "tag": "p",
+          "p": "More Resident Evil remakes are also on the way, and another stab at adapting the franchise for the big screen is in an early stage of development. The new Resident Evil film will be helmed by Barbarian director Zach Cregger and is currently scheduled to be released on September 18, 2026."
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Game News Title: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non neque alias enim tempore!",
+      "img": {
+        "path": "/images/news/E1yR4enVgAEH8lf.jpg",
+        "imgType": "image/jpeg",
+        "imgBase64": ""
+      },
+      "updateDateTime": "2025-06-09T21:12:00",
+      "subTitle": "After teasing fans earlier in the show, Capcom dropped a bombshell with a trailer announcing Resident Evil Requiem.",
+      "author": "Phil Hornshaw",
+      "contents": [
+        {
+          "key": "ewfewf",
+          "tag": "p",
+          "p": "Capcom pulled a fast one on Resident Evil fans during Summer Game Fest 2025, first teasing upcoming information about a new Resident Evil title sometime in the future, and then ending the show with a trailer for the next mainline title in the survival-horror franchise, Resident Evil Requiem. Capcom also revealed the release date for the game: February 27, 2026. Check out the trailer below."
+        },
+        {
+          "key": "ewfewfergregre",
+          "tag": "p",
+          "p": "After the trailer reveal, Summer Game Fest host Geoff Keighley said the game \"marks a bold shift for the franchise, both in tone and gameplay, and today's reveal isn't just about survival horror. Expect high-stakes cinematic action, too.\""
+        },
+        {
+          "key": "ewfewfregjttyuj",
+          "tag": "p",
+          "p": "The trailer gave some hints about where the game will take players, hinting at a return to Raccoon City from Resident Evils 1-3--only in its destroyed form, as the US government used a nuclear bomb on Raccoon City to contain the monster-making T-virus outbreak in the early franchise."
+        },
+        {
+          "key": "ewjtukiuoiuiofewf",
+          "tag": "p",
+          "p": "It also stars a character named Grace Ashcroft, an FBI analyst who seems to be the daughter of Alyssa Aschroft, a character who appeared in Resident Evil Outbreak. If you don't remember that game, that's because it was a short-lived, early online multiplayer title set during the events of Resident Evil 2 and 3. It concerned a group of survivors fighting to survive the zombie outbreak and escape the city."
+        },
+        {
+          "key": "rthrjtykjyu",
+          "tag": "p",
+          "p": "According to its official website, Resident Evil Requiem brings \"a new era of survival horror begins in 2026. Technological advancements combined with the development team's depth of experience combine in a story with rich characters and gameplay that's more immersive than ever before.\""
+        },
+        {
+          "key": "etyu78978sdvgsdewfewf",
+          "tag": "img",
+          "img": {
+            "path": "/images/news/E1yR4enVgAEH8lf.jpg",
+            "imgType": "image/jpeg",
+            "imgBase64": ""
+          }
+        },
+        {
+          "key": "reg756756",
+          "tag": "p",
+          "p": "Requiem is headed to PlayStation 5, Xbox Series X|S, and PC."
+        },
+        {
+          "key": "ewhrth789798702gverffewf",
+          "tag": "p",
+          "p": "Earlier in the show, Capcom acknowledged the \"latest Resident Evil game,\" as well as the 30th anniversary of Resident Evil, but asked fans to wait just a little longer for info on the game. In a short video segment, Resident Evil executive producer Jun Takeuchi thanked fans for their continued support."
+        },
+        {
+          "key": "ewfrehrth789789789gfhgfewf",
+          "tag": "p",
+          "p": "\"Now, about the latest Resident Evil game you've all been waiting for ... bear with us a little longer, just a blink of an eye more, and it'll be ready.\""
+        },
+        {
+          "key": "ergrhjtjyu9789080q2r42sddfs",
+          "tag": "p",
+          "p": "The video also included a bunch of iconic images from across the franchise, such as the \"Welcome to Raccoon City\" sign, a Raccoon City Police Department typewriter, a map of the city, and a shot of Lady Dimitrescu, the breakout villain from Resident Evil Village. The video also featured Maggie Robertson, who voices Dimitrescu, singing a spooky take on \"Happy Birthday.\""
+        },
+        {
+          "key": "regrgh769098xcvxert",
+          "tag": "p",
+          "p": "Capcom had previously announced during its 2024 showcase that the next Resident Evil was in development--and possibly teased in a Resident Evil 4 sales milestone post back in April--with game director Koshi Nakanishi leading the charge. Nakanishi has worked on several Resident Evil titles over the years, and he was the director of Resident Evil 7, the game many consider to be a pivotal turning point for the series."
+        },
+        {
+          "key": "ewfew655467578",
+          "tag": "p",
+          "p": "\"We're making a new Resident Evil. It was really difficult to figure out what to do after [Resident Evil] 7,\" Nakanishi said last year. \"But I found it, and to be honest, it feels substantial.\""
+        },
+        {
+          "key": "bgfnfghg67867867",
+          "tag": "p",
+          "p": "More Resident Evil remakes are also on the way, and another stab at adapting the franchise for the big screen is in an early stage of development. The new Resident Evil film will be helmed by Barbarian director Zach Cregger and is currently scheduled to be released on September 18, 2026."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Game News Title: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non neque alias enim tempore!",
+      "img": {
+        "path": "/images/news/GbDIbgBasAArasU.jfif",
+        "imgType": "image/jpeg",
+        "imgBase64": ""
+      },
+      "updateDateTime": "2025-06-09T21:12:00",
+      "subTitle": "After teasing fans earlier in the show, Capcom dropped a bombshell with a trailer announcing Resident Evil Requiem.",
+      "author": "Phil Hornshaw",
+      "contents": [
+        {
+          "key": "ewfewf",
+          "tag": "p",
+          "p": "Capcom pulled a fast one on Resident Evil fans during Summer Game Fest 2025, first teasing upcoming information about a new Resident Evil title sometime in the future, and then ending the show with a trailer for the next mainline title in the survival-horror franchise, Resident Evil Requiem. Capcom also revealed the release date for the game: February 27, 2026. Check out the trailer below."
+        },
+        {
+          "key": "ewfewfergregre",
+          "tag": "p",
+          "p": "After the trailer reveal, Summer Game Fest host Geoff Keighley said the game \"marks a bold shift for the franchise, both in tone and gameplay, and today's reveal isn't just about survival horror. Expect high-stakes cinematic action, too.\""
+        },
+        {
+          "key": "ewfewfregjttyuj",
+          "tag": "p",
+          "p": "The trailer gave some hints about where the game will take players, hinting at a return to Raccoon City from Resident Evils 1-3--only in its destroyed form, as the US government used a nuclear bomb on Raccoon City to contain the monster-making T-virus outbreak in the early franchise."
+        },
+        {
+          "key": "ewjtukiuoiuiofewf",
+          "tag": "p",
+          "p": "It also stars a character named Grace Ashcroft, an FBI analyst who seems to be the daughter of Alyssa Aschroft, a character who appeared in Resident Evil Outbreak. If you don't remember that game, that's because it was a short-lived, early online multiplayer title set during the events of Resident Evil 2 and 3. It concerned a group of survivors fighting to survive the zombie outbreak and escape the city."
+        },
+        {
+          "key": "rthrjtykjyu",
+          "tag": "p",
+          "p": "According to its official website, Resident Evil Requiem brings \"a new era of survival horror begins in 2026. Technological advancements combined with the development team's depth of experience combine in a story with rich characters and gameplay that's more immersive than ever before.\""
+        },
+        {
+          "key": "etyu78978sdvgsdewfewf",
+          "tag": "img",
+          "img": {
+            "path": "/images/news/GbDIbgBasAArasU.jfif",
+            "imgType": "image/jpeg",
+            "imgBase64": ""
+          }
+        },
+        {
+          "key": "reg756756",
+          "tag": "p",
+          "p": "Requiem is headed to PlayStation 5, Xbox Series X|S, and PC."
+        },
+        {
+          "key": "ewhrth789798702gverffewf",
+          "tag": "p",
+          "p": "Earlier in the show, Capcom acknowledged the \"latest Resident Evil game,\" as well as the 30th anniversary of Resident Evil, but asked fans to wait just a little longer for info on the game. In a short video segment, Resident Evil executive producer Jun Takeuchi thanked fans for their continued support."
+        },
+        {
+          "key": "ewfrehrth789789789gfhgfewf",
+          "tag": "p",
+          "p": "\"Now, about the latest Resident Evil game you've all been waiting for ... bear with us a little longer, just a blink of an eye more, and it'll be ready.\""
+        },
+        {
+          "key": "ergrhjtjyu9789080q2r42sddfs",
+          "tag": "p",
+          "p": "The video also included a bunch of iconic images from across the franchise, such as the \"Welcome to Raccoon City\" sign, a Raccoon City Police Department typewriter, a map of the city, and a shot of Lady Dimitrescu, the breakout villain from Resident Evil Village. The video also featured Maggie Robertson, who voices Dimitrescu, singing a spooky take on \"Happy Birthday.\""
+        },
+        {
+          "key": "regrgh769098xcvxert",
+          "tag": "p",
+          "p": "Capcom had previously announced during its 2024 showcase that the next Resident Evil was in development--and possibly teased in a Resident Evil 4 sales milestone post back in April--with game director Koshi Nakanishi leading the charge. Nakanishi has worked on several Resident Evil titles over the years, and he was the director of Resident Evil 7, the game many consider to be a pivotal turning point for the series."
+        },
+        {
+          "key": "ewfew655467578",
+          "tag": "p",
+          "p": "\"We're making a new Resident Evil. It was really difficult to figure out what to do after [Resident Evil] 7,\" Nakanishi said last year. \"But I found it, and to be honest, it feels substantial.\""
+        },
+        {
+          "key": "bgfnfghg67867867",
+          "tag": "p",
+          "p": "More Resident Evil remakes are also on the way, and another stab at adapting the franchise for the big screen is in an early stage of development. The new Resident Evil film will be helmed by Barbarian director Zach Cregger and is currently scheduled to be released on September 18, 2026."
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Game News Title: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non neque alias enim tempore!",
+      "img": {
+        "path": "/images/news/310636597_834525607899696_1512184974765098203_n.jpg",
+        "imgType": "image/jpeg",
+        "imgBase64": ""
+      },
+      "updateDateTime": "2025-06-09T21:12:00",
+      "subTitle": "After teasing fans earlier in the show, Capcom dropped a bombshell with a trailer announcing Resident Evil Requiem.",
+      "author": "Phil Hornshaw",
+      "contents": [
+        {
+          "key": "ewfewf",
+          "tag": "p",
+          "p": "Capcom pulled a fast one on Resident Evil fans during Summer Game Fest 2025, first teasing upcoming information about a new Resident Evil title sometime in the future, and then ending the show with a trailer for the next mainline title in the survival-horror franchise, Resident Evil Requiem. Capcom also revealed the release date for the game: February 27, 2026. Check out the trailer below."
+        },
+        {
+          "key": "ewfewfergregre",
+          "tag": "p",
+          "p": "After the trailer reveal, Summer Game Fest host Geoff Keighley said the game \"marks a bold shift for the franchise, both in tone and gameplay, and today's reveal isn't just about survival horror. Expect high-stakes cinematic action, too.\""
+        },
+        {
+          "key": "ewfewfregjttyuj",
+          "tag": "p",
+          "p": "The trailer gave some hints about where the game will take players, hinting at a return to Raccoon City from Resident Evils 1-3--only in its destroyed form, as the US government used a nuclear bomb on Raccoon City to contain the monster-making T-virus outbreak in the early franchise."
+        },
+        {
+          "key": "ewjtukiuoiuiofewf",
+          "tag": "p",
+          "p": "It also stars a character named Grace Ashcroft, an FBI analyst who seems to be the daughter of Alyssa Aschroft, a character who appeared in Resident Evil Outbreak. If you don't remember that game, that's because it was a short-lived, early online multiplayer title set during the events of Resident Evil 2 and 3. It concerned a group of survivors fighting to survive the zombie outbreak and escape the city."
+        },
+        {
+          "key": "rthrjtykjyu",
+          "tag": "p",
+          "p": "According to its official website, Resident Evil Requiem brings \"a new era of survival horror begins in 2026. Technological advancements combined with the development team's depth of experience combine in a story with rich characters and gameplay that's more immersive than ever before.\""
+        },
+        {
+          "key": "etyu78978sdvgsdewfewf",
+          "tag": "img",
+          "img": {
+            "path": "/images/news/310636597_834525607899696_1512184974765098203_n.jpg",
+            "imgType": "image/jpeg",
+            "imgBase64": ""
+          }
+        },
+        {
+          "key": "reg756756",
+          "tag": "p",
+          "p": "Requiem is headed to PlayStation 5, Xbox Series X|S, and PC."
+        },
+        {
+          "key": "ewhrth789798702gverffewf",
+          "tag": "p",
+          "p": "Earlier in the show, Capcom acknowledged the \"latest Resident Evil game,\" as well as the 30th anniversary of Resident Evil, but asked fans to wait just a little longer for info on the game. In a short video segment, Resident Evil executive producer Jun Takeuchi thanked fans for their continued support."
+        },
+        {
+          "key": "ewfrehrth789789789gfhgfewf",
+          "tag": "p",
+          "p": "\"Now, about the latest Resident Evil game you've all been waiting for ... bear with us a little longer, just a blink of an eye more, and it'll be ready.\""
+        },
+        {
+          "key": "ergrhjtjyu9789080q2r42sddfs",
+          "tag": "p",
+          "p": "The video also included a bunch of iconic images from across the franchise, such as the \"Welcome to Raccoon City\" sign, a Raccoon City Police Department typewriter, a map of the city, and a shot of Lady Dimitrescu, the breakout villain from Resident Evil Village. The video also featured Maggie Robertson, who voices Dimitrescu, singing a spooky take on \"Happy Birthday.\""
+        },
+        {
+          "key": "regrgh769098xcvxert",
+          "tag": "p",
+          "p": "Capcom had previously announced during its 2024 showcase that the next Resident Evil was in development--and possibly teased in a Resident Evil 4 sales milestone post back in April--with game director Koshi Nakanishi leading the charge. Nakanishi has worked on several Resident Evil titles over the years, and he was the director of Resident Evil 7, the game many consider to be a pivotal turning point for the series."
+        },
+        {
+          "key": "ewfew655467578",
+          "tag": "p",
+          "p": "\"We're making a new Resident Evil. It was really difficult to figure out what to do after [Resident Evil] 7,\" Nakanishi said last year. \"But I found it, and to be honest, it feels substantial.\""
+        },
+        {
+          "key": "bgfnfghg67867867",
+          "tag": "p",
+          "p": "More Resident Evil remakes are also on the way, and another stab at adapting the franchise for the big screen is in an early stage of development. The new Resident Evil film will be helmed by Barbarian director Zach Cregger and is currently scheduled to be released on September 18, 2026."
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Game News Title: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non neque alias enim tempore!",
+      "img": {
+        "path": "/images/news/276113982_5347711318599411_6307502487567241220_n.jpg",
+        "imgType": "image/jpeg",
+        "imgBase64": ""
+      },
+      "updateDateTime": "2025-06-09T21:12:00",
+      "subTitle": "After teasing fans earlier in the show, Capcom dropped a bombshell with a trailer announcing Resident Evil Requiem.",
+      "author": "Phil Hornshaw",
+      "contents": [
+        {
+          "key": "ewfewf",
+          "tag": "p",
+          "p": "Capcom pulled a fast one on Resident Evil fans during Summer Game Fest 2025, first teasing upcoming information about a new Resident Evil title sometime in the future, and then ending the show with a trailer for the next mainline title in the survival-horror franchise, Resident Evil Requiem. Capcom also revealed the release date for the game: February 27, 2026. Check out the trailer below."
+        },
+        {
+          "key": "ewfewfergregre",
+          "tag": "p",
+          "p": "After the trailer reveal, Summer Game Fest host Geoff Keighley said the game \"marks a bold shift for the franchise, both in tone and gameplay, and today's reveal isn't just about survival horror. Expect high-stakes cinematic action, too.\""
+        },
+        {
+          "key": "ewfewfregjttyuj",
+          "tag": "p",
+          "p": "The trailer gave some hints about where the game will take players, hinting at a return to Raccoon City from Resident Evils 1-3--only in its destroyed form, as the US government used a nuclear bomb on Raccoon City to contain the monster-making T-virus outbreak in the early franchise."
+        },
+        {
+          "key": "ewjtukiuoiuiofewf",
+          "tag": "p",
+          "p": "It also stars a character named Grace Ashcroft, an FBI analyst who seems to be the daughter of Alyssa Aschroft, a character who appeared in Resident Evil Outbreak. If you don't remember that game, that's because it was a short-lived, early online multiplayer title set during the events of Resident Evil 2 and 3. It concerned a group of survivors fighting to survive the zombie outbreak and escape the city."
+        },
+        {
+          "key": "rthrjtykjyu",
+          "tag": "p",
+          "p": "According to its official website, Resident Evil Requiem brings \"a new era of survival horror begins in 2026. Technological advancements combined with the development team's depth of experience combine in a story with rich characters and gameplay that's more immersive than ever before.\""
+        },
+        {
+          "key": "etyu78978sdvgsdewfewf",
+          "tag": "img",
+          "img": {
+            "path": "/images/news/276113982_5347711318599411_6307502487567241220_n.jpg",
+            "imgType": "image/jpeg",
+            "imgBase64": ""
+          }
+        },
+        {
+          "key": "reg756756",
+          "tag": "p",
+          "p": "Requiem is headed to PlayStation 5, Xbox Series X|S, and PC."
+        },
+        {
+          "key": "ewhrth789798702gverffewf",
+          "tag": "p",
+          "p": "Earlier in the show, Capcom acknowledged the \"latest Resident Evil game,\" as well as the 30th anniversary of Resident Evil, but asked fans to wait just a little longer for info on the game. In a short video segment, Resident Evil executive producer Jun Takeuchi thanked fans for their continued support."
+        },
+        {
+          "key": "ewfrehrth789789789gfhgfewf",
+          "tag": "p",
+          "p": "\"Now, about the latest Resident Evil game you've all been waiting for ... bear with us a little longer, just a blink of an eye more, and it'll be ready.\""
+        },
+        {
+          "key": "ergrhjtjyu9789080q2r42sddfs",
+          "tag": "p",
+          "p": "The video also included a bunch of iconic images from across the franchise, such as the \"Welcome to Raccoon City\" sign, a Raccoon City Police Department typewriter, a map of the city, and a shot of Lady Dimitrescu, the breakout villain from Resident Evil Village. The video also featured Maggie Robertson, who voices Dimitrescu, singing a spooky take on \"Happy Birthday.\""
+        },
+        {
+          "key": "regrgh769098xcvxert",
+          "tag": "p",
+          "p": "Capcom had previously announced during its 2024 showcase that the next Resident Evil was in development--and possibly teased in a Resident Evil 4 sales milestone post back in April--with game director Koshi Nakanishi leading the charge. Nakanishi has worked on several Resident Evil titles over the years, and he was the director of Resident Evil 7, the game many consider to be a pivotal turning point for the series."
+        },
+        {
+          "key": "ewfew655467578",
+          "tag": "p",
+          "p": "\"We're making a new Resident Evil. It was really difficult to figure out what to do after [Resident Evil] 7,\" Nakanishi said last year. \"But I found it, and to be honest, it feels substantial.\""
+        },
+        {
+          "key": "bgfnfghg67867867",
+          "tag": "p",
+          "p": "More Resident Evil remakes are also on the way, and another stab at adapting the franchise for the big screen is in an early stage of development. The new Resident Evil film will be helmed by Barbarian director Zach Cregger and is currently scheduled to be released on September 18, 2026."
+        }
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "id": "1",
+      "img": {
+        "path": "/images/guide/cbf92280948e2c67cb781a8d6d1o9cw5.JPG",
+        "imgType": "image/jpeg",
+        "imgBase64": ""
+      },
+      "title": "How To Build The Most Powerful Character",
+      "subTitle": "Guide Description, consectetur adipisicing elit. Non neque alias enim tempore!",
+      "releaseDate": "2025-06-11T10:15:00",
+      "author": "Phil Hornshaw",
+      "contents": [
+        {
+          "key": "ewfewf",
+          "tag": "p",
+          "p": "Capcom pulled a fast one on Resident Evil fans during Summer Game Fest 2025, first teasing upcoming information about a new Resident Evil title sometime in the future, and then ending the show with a trailer for the next mainline title in the survival-horror franchise, Resident Evil Requiem. Capcom also revealed the release date for the game: February 27, 2026. Check out the trailer below."
+        },
+        {
+          "key": "ewfewfergregre",
+          "tag": "p",
+          "p": "After the trailer reveal, Summer Game Fest host Geoff Keighley said the game \"marks a bold shift for the franchise, both in tone and gameplay, and today's reveal isn't just about survival horror. Expect high-stakes cinematic action, too.\""
+        },
+        {
+          "key": "ewfewfregjttyuj",
+          "tag": "p",
+          "p": "The trailer gave some hints about where the game will take players, hinting at a return to Raccoon City from Resident Evils 1-3--only in its destroyed form, as the US government used a nuclear bomb on Raccoon City to contain the monster-making T-virus outbreak in the early franchise."
+        },
+        {
+          "key": "ewjtukiuoiuiofewf",
+          "tag": "p",
+          "p": "It also stars a character named Grace Ashcroft, an FBI analyst who seems to be the daughter of Alyssa Aschroft, a character who appeared in Resident Evil Outbreak. If you don't remember that game, that's because it was a short-lived, early online multiplayer title set during the events of Resident Evil 2 and 3. It concerned a group of survivors fighting to survive the zombie outbreak and escape the city."
+        },
+        {
+          "key": "rthrjtykjyu",
+          "tag": "p",
+          "p": "According to its official website, Resident Evil Requiem brings \"a new era of survival horror begins in 2026. Technological advancements combined with the development team's depth of experience combine in a story with rich characters and gameplay that's more immersive than ever before.\""
+        },
+        {
+          "key": "etyu78978sdvgsdewfewf",
+          "tag": "img",
+          "img": {
+            "path": "/images/guide/cbf92280948e2c67cb781a8d6d1o9cw5.JPG",
+            "imgType": "image/jpeg",
+            "imgBase64": ""
+          }
+        },
+        {
+          "key": "reg756756",
+          "tag": "p",
+          "p": "Requiem is headed to PlayStation 5, Xbox Series X|S, and PC."
+        },
+        {
+          "key": "ewhrth789798702gverffewf",
+          "tag": "p",
+          "p": "Earlier in the show, Capcom acknowledged the \"latest Resident Evil game,\" as well as the 30th anniversary of Resident Evil, but asked fans to wait just a little longer for info on the game. In a short video segment, Resident Evil executive producer Jun Takeuchi thanked fans for their continued support."
+        },
+        {
+          "key": "ewfrehrth789789789gfhgfewf",
+          "tag": "p",
+          "p": "\"Now, about the latest Resident Evil game you've all been waiting for ... bear with us a little longer, just a blink of an eye more, and it'll be ready.\""
+        },
+        {
+          "key": "ergrhjtjyu9789080q2r42sddfs",
+          "tag": "p",
+          "p": "The video also included a bunch of iconic images from across the franchise, such as the \"Welcome to Raccoon City\" sign, a Raccoon City Police Department typewriter, a map of the city, and a shot of Lady Dimitrescu, the breakout villain from Resident Evil Village. The video also featured Maggie Robertson, who voices Dimitrescu, singing a spooky take on \"Happy Birthday.\""
+        },
+        {
+          "key": "regrgh769098xcvxert",
+          "tag": "p",
+          "p": "Capcom had previously announced during its 2024 showcase that the next Resident Evil was in development--and possibly teased in a Resident Evil 4 sales milestone post back in April--with game director Koshi Nakanishi leading the charge. Nakanishi has worked on several Resident Evil titles over the years, and he was the director of Resident Evil 7, the game many consider to be a pivotal turning point for the series."
+        },
+        {
+          "key": "ewfew655467578",
+          "tag": "p",
+          "p": "\"We're making a new Resident Evil. It was really difficult to figure out what to do after [Resident Evil] 7,\" Nakanishi said last year. \"But I found it, and to be honest, it feels substantial.\""
+        },
+        {
+          "key": "bgfnfghg67867867",
+          "tag": "p",
+          "p": "More Resident Evil remakes are also on the way, and another stab at adapting the franchise for the big screen is in an early stage of development. The new Resident Evil film will be helmed by Barbarian director Zach Cregger and is currently scheduled to be released on September 18, 2026."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "img": {
+        "path": "/images/guide/GDmC5SOX0AAGAqP.jpg",
+        "imgType": "image/jpeg",
+        "imgBase64": ""
+      },
+      "title": "Weapon Gudie",
+      "subTitle": "Guide Description, consectetur adipisicing elit. Non neque alias enim tempore!",
+      "releaseDate": "2025-06-11T10:15:00",
+      "author": "Phil Hornshaw",
+      "contents": [
+        {
+          "key": "ewfewf",
+          "tag": "p",
+          "p": "Capcom pulled a fast one on Resident Evil fans during Summer Game Fest 2025, first teasing upcoming information about a new Resident Evil title sometime in the future, and then ending the show with a trailer for the next mainline title in the survival-horror franchise, Resident Evil Requiem. Capcom also revealed the release date for the game: February 27, 2026. Check out the trailer below."
+        },
+        {
+          "key": "ewfewfergregre",
+          "tag": "p",
+          "p": "After the trailer reveal, Summer Game Fest host Geoff Keighley said the game \"marks a bold shift for the franchise, both in tone and gameplay, and today's reveal isn't just about survival horror. Expect high-stakes cinematic action, too.\""
+        },
+        {
+          "key": "ewfewfregjttyuj",
+          "tag": "p",
+          "p": "The trailer gave some hints about where the game will take players, hinting at a return to Raccoon City from Resident Evils 1-3--only in its destroyed form, as the US government used a nuclear bomb on Raccoon City to contain the monster-making T-virus outbreak in the early franchise."
+        },
+        {
+          "key": "ewjtukiuoiuiofewf",
+          "tag": "p",
+          "p": "It also stars a character named Grace Ashcroft, an FBI analyst who seems to be the daughter of Alyssa Aschroft, a character who appeared in Resident Evil Outbreak. If you don't remember that game, that's because it was a short-lived, early online multiplayer title set during the events of Resident Evil 2 and 3. It concerned a group of survivors fighting to survive the zombie outbreak and escape the city."
+        },
+        {
+          "key": "rthrjtykjyu",
+          "tag": "p",
+          "p": "According to its official website, Resident Evil Requiem brings \"a new era of survival horror begins in 2026. Technological advancements combined with the development team's depth of experience combine in a story with rich characters and gameplay that's more immersive than ever before.\""
+        },
+        {
+          "key": "etyu78978sdvgsdewfewf",
+          "tag": "img",
+          "img": {
+            "path": "/images/guide/GDmC5SOX0AAGAqP.jpg",
+            "imgType": "image/jpeg",
+            "imgBase64": ""
+          }
+        },
+        {
+          "key": "reg756756",
+          "tag": "p",
+          "p": "Requiem is headed to PlayStation 5, Xbox Series X|S, and PC."
+        },
+        {
+          "key": "ewhrth789798702gverffewf",
+          "tag": "p",
+          "p": "Earlier in the show, Capcom acknowledged the \"latest Resident Evil game,\" as well as the 30th anniversary of Resident Evil, but asked fans to wait just a little longer for info on the game. In a short video segment, Resident Evil executive producer Jun Takeuchi thanked fans for their continued support."
+        },
+        {
+          "key": "ewfrehrth789789789gfhgfewf",
+          "tag": "p",
+          "p": "\"Now, about the latest Resident Evil game you've all been waiting for ... bear with us a little longer, just a blink of an eye more, and it'll be ready.\""
+        },
+        {
+          "key": "ergrhjtjyu9789080q2r42sddfs",
+          "tag": "p",
+          "p": "The video also included a bunch of iconic images from across the franchise, such as the \"Welcome to Raccoon City\" sign, a Raccoon City Police Department typewriter, a map of the city, and a shot of Lady Dimitrescu, the breakout villain from Resident Evil Village. The video also featured Maggie Robertson, who voices Dimitrescu, singing a spooky take on \"Happy Birthday.\""
+        },
+        {
+          "key": "regrgh769098xcvxert",
+          "tag": "p",
+          "p": "Capcom had previously announced during its 2024 showcase that the next Resident Evil was in development--and possibly teased in a Resident Evil 4 sales milestone post back in April--with game director Koshi Nakanishi leading the charge. Nakanishi has worked on several Resident Evil titles over the years, and he was the director of Resident Evil 7, the game many consider to be a pivotal turning point for the series."
+        },
+        {
+          "key": "ewfew655467578",
+          "tag": "p",
+          "p": "\"We're making a new Resident Evil. It was really difficult to figure out what to do after [Resident Evil] 7,\" Nakanishi said last year. \"But I found it, and to be honest, it feels substantial.\""
+        },
+        {
+          "key": "bgfnfghg67867867",
+          "tag": "p",
+          "p": "More Resident Evil remakes are also on the way, and another stab at adapting the franchise for the big screen is in an early stage of development. The new Resident Evil film will be helmed by Barbarian director Zach Cregger and is currently scheduled to be released on September 18, 2026."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "img": {
+        "path": "/images/guide/GDmDCuJWsAA4Nq8.jpg",
+        "imgType": "image/jpeg",
+        "imgBase64": ""
+      },
+      "title": "Guide Title: Lorem ipsum dolor sit amet",
+      "subTitle": "Guide Description, consectetur adipisicing elit. Non neque alias enim tempore!",
+      "releaseDate": "2025-06-11T10:15:00",
+      "author": "Phil Hornshaw",
+      "contents": [
+        {
+          "key": "ewfewf",
+          "tag": "p",
+          "p": "Capcom pulled a fast one on Resident Evil fans during Summer Game Fest 2025, first teasing upcoming information about a new Resident Evil title sometime in the future, and then ending the show with a trailer for the next mainline title in the survival-horror franchise, Resident Evil Requiem. Capcom also revealed the release date for the game: February 27, 2026. Check out the trailer below."
+        },
+        {
+          "key": "ewfewfergregre",
+          "tag": "p",
+          "p": "After the trailer reveal, Summer Game Fest host Geoff Keighley said the game \"marks a bold shift for the franchise, both in tone and gameplay, and today's reveal isn't just about survival horror. Expect high-stakes cinematic action, too.\""
+        },
+        {
+          "key": "ewfewfregjttyuj",
+          "tag": "p",
+          "p": "The trailer gave some hints about where the game will take players, hinting at a return to Raccoon City from Resident Evils 1-3--only in its destroyed form, as the US government used a nuclear bomb on Raccoon City to contain the monster-making T-virus outbreak in the early franchise."
+        },
+        {
+          "key": "ewjtukiuoiuiofewf",
+          "tag": "p",
+          "p": "It also stars a character named Grace Ashcroft, an FBI analyst who seems to be the daughter of Alyssa Aschroft, a character who appeared in Resident Evil Outbreak. If you don't remember that game, that's because it was a short-lived, early online multiplayer title set during the events of Resident Evil 2 and 3. It concerned a group of survivors fighting to survive the zombie outbreak and escape the city."
+        },
+        {
+          "key": "rthrjtykjyu",
+          "tag": "p",
+          "p": "According to its official website, Resident Evil Requiem brings \"a new era of survival horror begins in 2026. Technological advancements combined with the development team's depth of experience combine in a story with rich characters and gameplay that's more immersive than ever before.\""
+        },
+        {
+          "key": "etyu78978sdvgsdewfewf",
+          "tag": "img",
+          "img": {
+            "path": "/images/guide/GDmDCuJWsAA4Nq8.jpg",
+            "imgType": "image/jpeg",
+            "imgBase64": ""
+          }
+        },
+        {
+          "key": "reg756756",
+          "tag": "p",
+          "p": "Requiem is headed to PlayStation 5, Xbox Series X|S, and PC."
+        },
+        {
+          "key": "ewhrth789798702gverffewf",
+          "tag": "p",
+          "p": "Earlier in the show, Capcom acknowledged the \"latest Resident Evil game,\" as well as the 30th anniversary of Resident Evil, but asked fans to wait just a little longer for info on the game. In a short video segment, Resident Evil executive producer Jun Takeuchi thanked fans for their continued support."
+        },
+        {
+          "key": "ewfrehrth789789789gfhgfewf",
+          "tag": "p",
+          "p": "\"Now, about the latest Resident Evil game you've all been waiting for ... bear with us a little longer, just a blink of an eye more, and it'll be ready.\""
+        },
+        {
+          "key": "ergrhjtjyu9789080q2r42sddfs",
+          "tag": "p",
+          "p": "The video also included a bunch of iconic images from across the franchise, such as the \"Welcome to Raccoon City\" sign, a Raccoon City Police Department typewriter, a map of the city, and a shot of Lady Dimitrescu, the breakout villain from Resident Evil Village. The video also featured Maggie Robertson, who voices Dimitrescu, singing a spooky take on \"Happy Birthday.\""
+        },
+        {
+          "key": "regrgh769098xcvxert",
+          "tag": "p",
+          "p": "Capcom had previously announced during its 2024 showcase that the next Resident Evil was in development--and possibly teased in a Resident Evil 4 sales milestone post back in April--with game director Koshi Nakanishi leading the charge. Nakanishi has worked on several Resident Evil titles over the years, and he was the director of Resident Evil 7, the game many consider to be a pivotal turning point for the series."
+        },
+        {
+          "key": "ewfew655467578",
+          "tag": "p",
+          "p": "\"We're making a new Resident Evil. It was really difficult to figure out what to do after [Resident Evil] 7,\" Nakanishi said last year. \"But I found it, and to be honest, it feels substantial.\""
+        },
+        {
+          "key": "bgfnfghg67867867",
+          "tag": "p",
+          "p": "More Resident Evil remakes are also on the way, and another stab at adapting the franchise for the big screen is in an early stage of development. The new Resident Evil film will be helmed by Barbarian director Zach Cregger and is currently scheduled to be released on September 18, 2026."
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "content": "Lorem ipsum dolor sit amet!",
+      "date": "2025-06-11T10:15:00"
+    },
+    {
+      "id": "2",
+      "name": "Awregrn rewgijp gej",
+      "content": "Lorem ipsum dol!",
+      "date": "2025-06-11T10:15:00"
+    },
+    {
+      "id": "3",
+      "name": "Anna Jane",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam repellendus ut perferendis fugiat quam, architecto consequuntur eius ea quisquam officiis minima magni assumenda doloribus ad facilis!",
+      "date": "2025-06-11T10:15:00"
+    }
+  ]
+}

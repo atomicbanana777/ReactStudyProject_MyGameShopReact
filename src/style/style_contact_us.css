@@ -1,0 +1,22 @@
+.contact-us-section {
+    display: flex;
+    justify-content: space-around;
+}
+
+.contact-us-info {
+    margin-right: 10px;
+}
+
+.contact-us-info h3 {
+    font-size: large;
+}
+
+.contact-us-info h3,
+ .contact-us-info hr,
+ .contact-us-info p {
+    margin-bottom: 10px;
+}
+
+.contact-us-section img {
+    max-width: 400px;
+}
